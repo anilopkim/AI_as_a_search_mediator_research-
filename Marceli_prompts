@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 2",
+    "tone": "Neutral",
+    "product_category": "collagen peptides",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Vitakruid Collageen Solugel® Poeder",
+      "rationale_profile_mapping": {
+        "budget": "low – one of the cheapest listed (~€22.90)","literacy": "average – simple ingredient list","info_seeking": "indifferent – widely available","ethics": "somewhat important – mentions “99% puur” collagen and no artificial additives"
+      },
+      "pros": ["Very affordable for the category (~€22.90)","Contains hydrolysed peptides with added vitamins C & D"] ,
+      "cons": ["Basic branding and recognition","Still animal-derived (not vegan)"] ,
+      "price_eur": "≈ 22.90 for 250 g" ,
+      "purchase_channel": "online (e-drogist) / pharmacy-chain websites" ,
+      "close_substitutes": ["Vitals Collageen-VS","Arctic Blue Vis Collageen"]
+    },
+    {
+      "name": "Vitals Collageen-VS Poeder",
+      "rationale_profile_mapping": {
+        "budget": "low-moderate – priced ~€26-35 but often on sale ~€27","literacy": "average – claims ‘bioactive peptides’ and neutral flavour","info_seeking": "indifferent – simple one-maatschep dosing","ethics": "somewhat important – minimal additives"
+      },
+      "pros": ["Middling cost; good value when discounted","Neutral taste, easy to mix"] ,
+      "cons": ["Still higher than lowest budget option","Basic branding doesn’t stand out strongly"] ,
+      "price_eur": "≈ 26-35 for 250 g" ,
+      "purchase_channel": "online nutrition/health stores in NL" ,
+      "close_substitutes": ["Vitakruid Collageen Solugel®","Arctic Blue Vis Collageen"]
+    },
+    {
+      "name": "Royal Green Fish Collagen Peptides",
+      "rationale_profile_mapping": {
+        "budget": "low-moderate – around €24.95 for 110 g which is affordable","literacy": "average – mentions “type I collagen from fish”","info_seeking": "indifferent – simpler marine source vs bovine","ethics": "somewhat important – fish source may appeal for sustainable lean"
+      },
+      "pros": ["Marine collagen rather than bovine – may fit slightly more ethical sourcing","Good value for smaller pack"] ,
+      "cons": ["Smaller quantity (110 g) so cost per gram may be higher","Marine source may carry stronger taste or allergen risk"] ,
+      "price_eur": "≈ 24.95 for 110 g" ,
+      "purchase_channel": "online supplement retailers in NL" ,
+      "close_substitutes": ["Vitakruid Collageen Solugel®","Arctic Blue Vis Collageen"]
+    }
+  ],
+  "caution": "These are dietary supplements and not a substitute for a varied diet; if you have allergies, take medication or a medical condition, you should consult a healthcare professional before use."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 2",
+    "tone": "Neutral",
+    "product_category": "collagen peptides",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Vitakruid Collageen Solugel® Poeder",
+      "rationale_profile_mapping": {
+        "budget": "low – one of the cheapest listed (~€22.90)","literacy": "average – simple ingredient list","info_seeking": "indifferent – widely available","ethics": "somewhat important – mentions “99% puur” collagen and no artificial additives"
+      },
+      "pros": ["Very affordable for the category (~€22.90)","Contains hydrolysed peptides with added vitamins C & D"] ,
+      "cons": ["Basic branding and recognition","Still animal-derived (not vegan)"] ,
+      "price_eur": "≈ 22.90 for 250 g" ,
+      "purchase_channel": "online (e-drogist) / pharmacy-chain websites" ,
+      "close_substitutes": ["Vitals Collageen-VS","Arctic Blue Vis Collageen"]
+    },
+    {
+      "name": "Vitals Collageen-VS Poeder",
+      "rationale_profile_mapping": {
+        "budget": "low-moderate – priced ~€26-35 but often on sale ~€27","literacy": "average – claims ‘bioactive peptides’ and neutral flavour","info_seeking": "indifferent – simple one-maatschep dosing","ethics": "somewhat important – minimal additives"
+      },
+      "pros": ["Middling cost; good value when discounted","Neutral taste, easy to mix"] ,
+      "cons": ["Still higher than lowest budget option","Basic branding doesn’t stand out strongly"] ,
+      "price_eur": "≈ 26-35 for 250 g" ,
+      "purchase_channel": "online nutrition/health stores in NL" ,
+      "close_substitutes": ["Vitakruid Collageen Solugel®","Arctic Blue Vis Collageen"]
+    },
+    {
+      "name": "Royal Green Fish Collagen Peptides",
+      "rationale_profile_mapping": {
+        "budget": "low-moderate – around €24.95 for 110 g which is affordable","literacy": "average – mentions “type I collagen from fish”","info_seeking": "indifferent – simpler marine source vs bovine","ethics": "somewhat important – fish source may appeal for sustainable lean"
+      },
+      "pros": ["Marine collagen rather than bovine – may fit slightly more ethical sourcing","Good value for smaller pack"] ,
+      "cons": ["Smaller quantity (110 g) so cost per gram may be higher","Marine source may carry stronger taste or allergen risk"] ,
+      "price_eur": "≈ 24.95 for 110 g" ,
+      "purchase_channel": "online supplement retailers in NL" ,
+      "close_substitutes": ["Vitakruid Collageen Solugel®","Arctic Blue Vis Collageen"]
+    }
+  ],
+  "caution": "These are dietary supplements and not a substitute for a varied diet; if you have allergies, take medication or a medical condition, you should consult a healthcare professional before use."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 3",
+    "tone": "Neutral",
+    "product_category": "collagen peptides",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "NoordCode Pure Collagen",
+      "rationale_profile_mapping": {
+        "budget": "high – affordable premium (~€34.95)","literacy": "average – clear ingredient list, simple formulation","info_seeking": "expert-trusting – lab-tested, transparent sourcing","ethics": "central – 100% grass-fed European cows, enzymatically hydrolysed, additive-free"  
+      },
+      "pros": ["European grass-fed source, lab-tested purity (lactose-free)","No additives or flavourings, transparent manufacturing"] ,
+      "cons": ["Bovine-derived (not marine) which may be less aligned with certain vegetarian/vegan preferences","Single source – fewer added nutrients or complex extras"] ,
+      "price_eur": "≈ 34.95 for 450 g" ,
+      "purchase_channel": "online Dutch store (NoordCode.nl) / direct shipping" ,
+      "close_substitutes": ["Vital Proteins Collagen Peptides","Mattisson Marine Collagen Powder"]
+    },
+    {
+      "name": "Vild Nord Pure Marine Collagen",
+      "rationale_profile_mapping": {
+        "budget": "high – premium tier for marine source","literacy": "average – moderate complexity but trust brand ethos","info_seeking": "expert-trusting – wild-caught, third-party tested heavy metals","ethics": "central – wild-caught North Atlantic cod, MSC-certified sustainability"  
+      },
+      "pros": ["Marine collagen from wild-caught cod; strong ethical sourcing and traceability","High-protein (~95%) with minimal extras, dissolves easily"] ,
+      "cons": ["Higher cost per gram; small pack size may raise cost per serving","Fish-based collagen means allergen risk for some, and excludes strict vegetarian/vegan"] ,
+      "price_eur": "≈ €40–45 (converted from DKK sale price 249,95 DKK) for ~150 g" ,
+      "purchase_channel": "online (VildNord.com) shipping to NL" ,
+      "close_substitutes": ["Ancient + Brave Wild Collagen","SANA Amsterdam Beyond Collagen"]
+    },
+    {
+      "name": "SANA Amsterdam Beyond Collagen (Premium Marine Shots or Sachets)",
+      "rationale_profile_mapping": {
+        "budget": "high – luxury segment","literacy": "average – minimal search required, trusted Dutch brand","info_seeking": "expert-trusting – award-winning cosmeceutical product in NL","ethics": "central – Norwegian marine collagen from sustainable fisheries"  
+      },
+      "pros": ["Premium Dutch brand; marine collagen from sustainable Norwegian fisheries; easy-use formats (shots/sachets)","Strong brand story and quality positioning—aligns with high budget & ethical sourcing"] ,
+      "cons": ["High cost (luxury tier) not cost-efficient per gram","Mixed format (shots/sachets) may seem less “pure powder” to some users"] ,
+      "price_eur": "≈ €199.99 for 6-month pack (180 sachets) per website" :contentReference[oaicite:3]{index=3},
+      "purchase_channel": "online direct (SANA Amsterdam.nl)" ,
+      "close_substitutes": ["Vild Nord Pure Marine Collagen","Glow25 Collagen Plus (marine version)"]
+    }
+  ],
+  "caution": "These are dietary supplements rather than essential medical treatments; always co-ordinate with your physician if you have underlying health conditions, allergies or take medications."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 4",
+    "tone": "Neutral",
+    "product_category": "collagen peptides",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Arctic Blue Viscollageen Poeder MSC Naturel (150 g)",
+      "rationale_profile_mapping": {
+        "budget": "medium – around €21–25",
+        "literacy": "low – very simple label, one ingredient",
+        "info_seeking": "indifferent – minimal research required",
+        "ethics": "indifferent – though has MSC “sustainable fish” label which may slightly appeal"
+      },
+      "pros": ["Single-ingredient fish-collagen powder, easy to mix into yoghurt or drink", "Budget friendly (~€21.66) for 150g quantity"] ,
+      "cons": ["Fish-derived so may not suit strict dietary restrictions if avoiding fish", "Small size means frequent re-purchase"] ,
+      "price_eur": "≈ 21.66–24.90" ,
+      "purchase_channel": "online Dutch supplement store" ,
+      "close_substitutes": ["Mattisson Marine Collageen Peptan® Blend","Arctic Blue Viscollageen Aardbei flavour"]
+    },
+    {
+      "name": "Mattisson Marine Collageen Poeder Peptan® Blend (300 g)",
+      "rationale_profile_mapping": {
+        "budget": "medium – about €27–35",
+        "literacy": "low – simple form but brand gives “Peptan®” label",
+        "info_seeking": "indifferent – readily available online with few details needed",
+        "ethics": "indifferent – fish source still but brand doesn’t focus heavily on ethics"
+      },
+      "pros": ["Larger size (300g) so better value (~€27.96)","Marine fish collagen (fish source) which may appeal for a strict dietary preference if fish allowed"] ,
+      "cons": ["Still fish-derived so may conflict if dietary restrictions exclude fish","Basic packaging; less premium feel if you expect hedonic experience"] ,
+      "price_eur": "≈ 27.96–34.95" ,
+      "purchase_channel": "online Dutch health / supplement retailer" ,
+      "close_substitutes": ["Arctic Blue Viscollageen","Mattisson Runder Collageen Poeder"]
+    },
+    {
+      "name": "Vital Proteins Collagen Peptides (Unflavoured, 284 g)",
+      "rationale_profile_mapping": {
+        "budget": "medium – premium brand so higher cost (~€28-30)",
+        "literacy": "low – good brand recognition may reduce need for deep research",
+        "info_seeking": "indifferent – trusted brand lowers need to dig into details",
+        "ethics": "indifferent – bovine derived so less ethical sourcing emphasis but acceptable"
+      },
+      "pros": ["Strong brand recognition which may satisfy hedonic shopping goal","Unflavoured powder, easy to add to drinks without taste change"] ,
+      "cons": ["Bovine source may conflict with strict dietary if avoiding beef/cow products","Price is a bit higher for this persona’s budget range"] ,
+      "price_eur": "≈ €28.50" ,
+      "purchase_channel": "online (e.g. Holland & Barrett NL) / health store" ,
+      "close_substitutes": ["Glow25 Collagen Plus","Mattisson Marine Collageen Poeder"]
+    }
+  ],
+  "caution": "As with all supplements: they are not a substitute for a varied diet; if you have dietary restrictions, take medications or have health conditions, consult a healthcare professional before use."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 5",
+    "tone": "Neutral",
+    "product_category": "collagen peptides",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Vitakruid Collageen Solugel® Poeder (250 g)",
+      "rationale_profile_mapping": {
+        "budget": "low – around €18-23 so fits budget constraint",
+        "literacy": "average – simple product with few ingredients",
+        "info_seeking": "indifferent – easy to choose, minimal research",
+        "ethics": "somewhat important – mentions pure collagen, no artificial additives"
+      },
+      "pros": ["Good value for the budget (~€22.90) :contentReference[oaicite:1]{index=1}","Simple formulation (collagen + vitamin C & D) with clear label"] ,
+      "cons": ["Derived from bovine (so not fish/vegan) so might not match all strict dietary restrictions","Basic branding compared to premium brands"] ,
+      "price_eur": "≈ 18-23",
+      "purchase_channel": "online Dutch supplement/health store",
+      "close_substitutes": ["Arctic Blue Viscollageen Poeder","Vitals Collageen-VS Poeder"]
+    },
+    {
+      "name": "Royal Green Fish Collagen Peptides Type 1 (110 g)",
+      "rationale_profile_mapping": {
+        "budget": "low – about €15-27 in offers",
+        "literacy": "average – “fish collagen” labelled clearly",
+        "info_seeking": "indifferent – straightforward source (wild-caught fish)",
+        "ethics": "somewhat important – uses wild-caught fish, which may appeal ethically"
+      },
+      "pros": ["Fish-sourced collagen – may align with dietary/accessibility if bovine is restricted","Fairly low cost when on sale (~€15-26) :contentReference[oaicite:3]{index=3}"] ,
+      "cons": ["Smaller size (110 g) so fewer servings","Fish-based may still conflict with strict dietary rules if fish is excluded"] ,
+      "price_eur": "≈ 15-27",
+      "purchase_channel": "online Dutch health/supplement retailers",
+      "close_substitutes": ["Mattisson Marine Collageen Poeder","Arctic Blue Viscollageen Poeder"]
+    },
+    {
+      "name": "Glow25 Collagen Plus",
+      "rationale_profile_mapping": {
+        "budget": "low-moderate – higher end of budget (~€30-40) but crowd-popular brand",
+        "literacy": "average – brand well known in NL, supports easy decision",
+        "info_seeking": "indifferent – many reviews so trusting crowd sources",
+        "ethics": "somewhat important – clear lab-tested claims and transparent sourcing"
+      },
+      "pros": ["Popular local brand with strong user reviews – suits crowd-trusting style :contentReference[oaicite:5]{index=5}","Includes collagen plus added nutrients (vit C, zinc, biotin) which may feel like value"] ,
+      "cons": ["Price is at upper limit of ‘low budget’ for this persona (~€39.99)","Still bovine-derived so may conflict with some dietary restrictions"] ,
+      "price_eur": "≈ 30-40",
+      "purchase_channel": "online Dutch direct brand store",
+      "close_substitutes": ["Glow25 Collagen (basic)","Vital Proteins Collagen Peptides"]
+    }
+  ],
+  "caution": "These are dietary supplements and not a substitute for a balanced diet; if you have dietary restrictions, take medication, or have health conditions, consult a healthcare professional before use."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "1",
+    "tone": "Neutral",
+    "product_category": "Hair-Skin-Nails Gummies",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "MyVitamins Hair, Skin & Nails Gummies",
+      "rationale_profile_mapping": {
+        "budget": "high (premium pricing acceptable)",
+        "literacy": "high (detailed label appreciated)",
+        "info_seeking": "low effort (simple buy online)",
+        "ethics": "indifferent"
+      },
+      "pros": ["Contains biotin, zinc and selenium","Tasty blueberry flavour"],
+      "cons": ["Mid-range price","Taste may not suit everyone"],
+      "price_eur": "14.79",
+      "purchase_channel": "online",
+      "close_substitutes": ["Hairburst Gummies","Vitabiotics Perfectil Gummies"]
+    },
+    {
+      "name": "Holland & Barrett Skin, Hair & Nails Vegan Gummies",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "high",
+        "info_seeking": "low effort",
+        "ethics": "indifferent (vegan option but user indifferent)"
+      },
+      "pros": ["Vegan friendly","Contains biotin, zinc and folic acid"],
+      "cons": ["Potentially higher cost than non-vegan","Added sugars typical of gummies"],
+      "price_eur": "≈15-20",
+      "purchase_channel": "online/physical store",
+      "close_substitutes": ["Vitafusion Hair Skin & Nails Gummies","Bears with Benefits Hair Skin & Nails Gummies"]
+    },
+    {
+      "name": "Lifergy Gummies Hair & Nails",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "high",
+        "info_seeking": "low effort",
+        "ethics": "indifferent"
+      },
+      "pros": ["Clear listing of key nutrients (zinc, biotin)","Good value quality"],
+      "cons": ["Smaller brand","Fewer reviews available"],
+      "price_eur": "16.96",
+      "purchase_channel": "online beauty/supplement shop",
+      "close_substitutes": ["Beauty & Go Hair Skin & Nails Gummies","Manifesto Beauty Vitamin Gummies"]
+    },
+    {
+      "name": "Nature’s Bounty Hair, Skin & Nails Gummies",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "high",
+        "info_seeking": "low effort",
+        "ethics": "indifferent"
+      },
+      "pros": ["Strong brand recognition","High-dose biotin and vitamins C & E"],
+      "cons": ["May require international shipping","Premium price"],
+      "price_eur": "≈19",
+      "purchase_channel": "online international store",
+      "close_substitutes": ["Solgar Hair Skin & Nails Gummies","Garden of Life MyKind Hair Skin Nails Gummies"]
+    },
+    {
+      "name": "Manifesto Beauty Vitamin Gummies",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "high",
+        "info_seeking": "low effort",
+        "ethics": "indifferent"
+      },
+      "pros": ["Luxury feel formulation","Broader “beauty” nutrients beyond basic vitamins"],
+      "cons": ["Higher cost","Less widely stocked in NL"],
+      "price_eur": "≈40-45",
+      "purchase_channel": "online brand website (EU shipping)",
+      "close_substitutes": ["Vida Glow Collagen Gummies","Mama & Me Beauty Gummies"]
+    }
+  ],
+  "caution": "These are dietary supplements and not substitutes for a balanced diet or professional medical advice; consult a healthcare provider before use especially if you are pregnant, on medications, or have medical conditions."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "2",
+    "tone": "Neutral",
+    "product_category": "Hair-Skin-Nails Gummies",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Amazon-listed Biotin Gummies for Hair, Skin & Nails",
+      "rationale_profile_mapping": {
+        "budget": "low (one of lowest price options)",
+        "literacy": "average (simple label)",
+        "info_seeking": "high time pressure (simple buy)",
+        "ethics": "somewhat important (vegan/clear labelling matters)"
+      },
+      "pros": ["Very low price (~€12.97) on Amazon NL. :contentReference[oaicite:0]{index=0}","Simple format, easy mobile purchase."],
+      "cons": ["Brand less known (low recognition)","Fewer listed attributes about sourcing or vegan status."],
+      "price_eur": "≈12.97",
+      "purchase_channel": "online (Amazon.nl)",
+      "close_substitutes": ["Nature’s Bounty Hair, Skin & Nails Gummies","Vitamsinstore Skin Hair Nail Gummies"]
+    },
+    {
+      "name": "Nature’s Bounty Gummies Hair, Skin & Nails",
+      "rationale_profile_mapping": {
+        "budget": "low-mid (still affordable)",
+        "literacy": "average",
+        "info_seeking": "high time pressure",
+        "ethics": "somewhat important"
+      },
+      "pros": ["Known brand; available around €13.60 for 60 gummies. :contentReference[oaicite:1]{index=1}","Simple chewable format, convenient."],
+      "cons": ["May involve import/shipping costs","Brand recognition still moderate in Netherlands."],
+      "price_eur": "≈13.60",
+      "purchase_channel": "online international store",
+      "close_substitutes": ["MyVitamins Hair Skin & Nails Gummies","Vitamsinstore Skin Hair Nail Gummies"]
+    },
+    {
+      "name": "Vitamsinstore Skin Hair Nail Gummies (own-brand)",
+      "rationale_profile_mapping": {
+        "budget": "low (local store brand, competitive price)",
+        "literacy": "average",
+        "info_seeking": "high time pressure (local retailer, easy pickup)",
+        "ethics": "somewhat important (label lists vegan, sugar-free) :contentReference[oaicite:2]{index=2}"
+      },
+      "pros": ["Local Netherlands retailer; vegan and sugar-free option.","Approx €17.95 for 60 gummies. :contentReference[oaicite:3]{index=3}"],
+      "cons": ["Price slightly higher than absolute budget minimum","Vegan may not be strictly required so may add cost."],
+      "price_eur": "≈17.95",
+      "purchase_channel": "online/local NL retailer (Vitaminstore)",
+      "close_substitutes": ["Holland & Barrett Skin, Hair & Nails Vegan Gummies","Lifergy Gummies Hair & Nails"]
+    }
+  ],
+  "caution": "These supplements are not substitutes for a balanced diet or professional advice; check for any interactions or conditions before use."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "3",
+    "tone": "Neutral",
+    "product_category": "Hair-Skin-Nails Gummies",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Feel Beauty Gummies",
+      "rationale_profile_mapping": {
+        "budget": "high (premium pricing acceptable)",
+        "literacy": "average",
+        "info_seeking": "low effort (prefers ready quality)",
+        "ethics": "central (vegan, gluten-free, non-GMO, allergen-free) "
+      },
+      "pros": ["Vegan & allergen-free; plant-derived packaging. :contentReference[oaicite:0]{index=0}","Clinically-tested “Careflow®” ingredient targeting circulation and skin/hair support. :contentReference[oaicite:1]{index=1}"],
+      "cons": ["Higher cost (~£35 ≈ €40+) for 60 gummies. :contentReference[oaicite:2]{index=2}","May require ordering from UK/Europe site (shipping + import considerations)"],
+      "price_eur": "≈40–45",
+      "purchase_channel": "online (brand direct, EU shipping)",
+      "close_substitutes": ["Novomins Hair, Skin & Nail Gummies","Starpowa Hair Skin Nails Vegan Gummies"]
+    },
+    {
+      "name": "Novomins Hair, Skin & Nail Gummies",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "average",
+        "info_seeking": "low effort",
+        "ethics": "central (vegan-friendly, non-GMO, gluten-free) "
+      },
+      "pros": ["Vegan Society certified, gluten-free, no artificial colours/preservatives. :contentReference[oaicite:3]{index=3}","Pack of 12 vitamins/minerals + botanicals in one product — quality focus. :contentReference[oaicite:4]{index=4}"],
+      "cons": ["Brand recognition still moderate in NL","Price ~ £18.99 (~€22+) but with shipping may increase. :contentReference[oaicite:5]{index=5}"],
+      "price_eur": "≈22–30",
+      "purchase_channel": "online (brand direct or specialist health retailer)",
+      "close_substitutes": ["Feel Beauty Gummies","Starpowa Hair Skin Nails Vegan Gummies"]
+    },
+    {
+      "name": "Starpowa Hair. Skin. Nails Vegan Gummies",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "average",
+        "info_seeking": "low effort",
+        "ethics": "central (vegan, formulated in UK/EU, clean-label) "
+      },
+      "pros": ["Specifically marketed as vegan, formulated for hair/skin/nails, strong ingredient list. :contentReference[oaicite:6]{index=6}","Subscription model available, which may appeal for quality continuity"],
+      "cons": ["Higher cost (~€35–46) depending on bundle. :contentReference[oaicite:7]{index=7}","May require import/shipping and member subscription for best value"],
+      "price_eur": "≈35–46",
+      "purchase_channel": "online (brand direct, EU shipping)",
+      "close_substitutes": ["Novomins Hair, Skin & Nail Gummies","Feel Beauty Gummies"]
+    }
+  ],
+  "caution": "These supplements are not a substitute for a healthy diet or medical advice; anyone with health conditions or taking medications should consult a health professional before use."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "4",
+    "tone": "Neutral",
+    "product_category": "Hair-Skin-Nails Gummies",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "MyVitamins Hair, Skin & Nails Gummies",
+      "rationale_profile_mapping": {
+        "budget": "medium",
+        "literacy": "low (easy label)",
+        "info_seeking": "indifferent",
+        "ethics": "indifferent"
+      },
+      "pros": ["Clear, simple label; around €14.79 for 60 gummies in NL. :contentReference[oaicite:0]{index=0}","Flavoured gummies make it more hedonic and easy to take."],
+      "cons": ["Not specifically ethical sourcing advertised","Basic brand recognition modest"],
+      "price_eur": "≈14.79",
+      "purchase_channel": "online nutrition retailer",
+      "close_substitutes": ["Holland & Barrett Skin, Hair & Nails Vegan Gummies","Lifergy Gummies Hair & Nails"]
+    },
+    {
+      "name": "Lifergy Gummies Hair & Nails",
+      "rationale_profile_mapping": {
+        "budget": "medium",
+        "literacy": "low",
+        "info_seeking": "indifferent",
+        "ethics": "indifferent"
+      },
+      "pros": ["Local Dutch retailer; simple strawberry flavour; listed at €16.96 for 60 gummies. :contentReference[oaicite:1]{index=1}","Friendly format, accessible for low-literacy preference."],
+      "cons": ["Brand less known, moderate trust","Less emphasis on ethical sourcing"],
+      "price_eur": "≈16.96",
+      "purchase_channel": "online Dutch beauty/supplement shop",
+      "close_substitutes": ["MyVitamins Hair, Skin & Nails Gummies","Nature’s Bounty Hair, Skin & Nails Gummies"]
+    },
+    {
+      "name": "Nature’s Bounty Hair, Skin & Nails Gummies",
+      "rationale_profile_mapping": {
+        "budget": "medium",
+        "literacy": "low",
+        "info_seeking": "indifferent",
+        "ethics": "indifferent"
+      },
+      "pros": ["Well-established international brand; example price around €13.87 in EU for 60 gummies. :contentReference[oaicite:2]{index=2}","Chewable gummy format suits hedonic/shopping enjoyment."],
+      "cons": ["May require import/shipping in NL","Ethical sourcing details not strongly emphasised"],
+      "price_eur": "≈13.87",
+      "purchase_channel": "online international pharmacy/health retailer",
+      "close_substitutes": ["Lifergy Gummies Hair & Nails","MyVitamins Hair, Skin & Nails Gummies"]
+    }
+  ],
+  "caution": "These supplements are not substitutes for a nutritious diet or professional medical advice; check with a healthcare provider if you have any condition or take medications."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "5",
+    "tone": "Neutral",
+    "product_category": "Hair-Skin-Nails Gummies",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "MyVitamins Hair, Skin & Nails Gummies",
+      "rationale_profile_mapping": {
+        "budget": "low",
+        "literacy": "average",
+        "info_seeking": "crowd-trusting",
+        "ethics": "somewhat important"
+      },
+      "pros": ["Affordable at ~€14.79 for 60 gummies in NL. :contentReference[oaicite:0]{index=0}","Recognised brand by many online, easy to purchase on desktop."],
+      "cons": ["Ethical-sourcing details less prominent","Medium budget category—not ultra-cheap"],
+      "price_eur": "≈14.79",
+      "purchase_channel": "online nutrition retailer",
+      "close_substitutes": ["Nature’s Bounty Hair, Skin & Nails Gummies","Etos Skin Hair Nail Gummies"]
+    },
+    {
+      "name": "Nature’s Bounty Hair, Skin & Nails Gummies",
+      "rationale_profile_mapping": {
+        "budget": "low",
+        "literacy": "average",
+        "info_seeking": "crowd-trusting",
+        "ethics": "somewhat important"
+      },
+      "pros": ["Well known international brand; price example ~€13.87 in EU. :contentReference[oaicite:1]{index=1}","Simple format, utilitarian buying goal aligns with hedonic less important."],
+      "cons": ["May need international shipping into NL","Ethical sourcing details not strongly advertised"],
+      "price_eur": "≈13.87",
+      "purchase_channel": "online international health/pharmacy retailer",
+      "close_substitutes": ["MyVitamins Hair, Skin & Nails Gummies","Vitamsinstore Skin Hair Nail Gummies"]
+    },
+    {
+      "name": "Etos Skin Hair Nail Gummies",
+      "rationale_profile_mapping": {
+        "budget": "low",
+        "literacy": "average",
+        "info_seeking": "crowd-trusting",
+        "ethics": "somewhat important"
+      },
+      "pros": ["Very budget-friendly: example price ~€6.34 for 60 pieces. :contentReference[oaicite:2]{index=2}","Local store brand (Etos) in NL – convenience high on multi-device use."],
+      "cons": ["Simpler formulation, fewer premium ingredients listed","Brand recognition medium for this specific category"],
+      "price_eur": "≈6.34",
+      "purchase_channel": "supermarket / local retailer",
+      "close_substitutes": ["Vitamsinstore Skin Hair Nail Gummies","MyVitamins Hair, Skin & Nails Gummies"]
+    }
+  ],
+  "caution": "These supplements should complement a balanced diet and healthy lifestyle and are not a substitute for medical advice—check with a healthcare provider if you have health conditions or are taking medications."
+}
+
+
+
