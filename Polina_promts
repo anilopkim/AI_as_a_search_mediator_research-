@@ -1,0 +1,642 @@
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Dimension-Persona 1",
+    "tone": "Neutral",
+    "product_category": "Grape-seed extract supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Solgar Grape Seed Extract 100 mg (30 vegicaps)",
+      "rationale_profile_mapping": {
+        "budget": "high (premium price)",
+        "literacy": "high (reputable brand, transparent content)",
+        "info_seeking": "crowd-trusting (well-known brand)",
+        "ethics": "indifferent (standard sourcing)"
+      },
+      "pros": ["High-dose phenols (90 mg per capsule) :contentReference[oaicite:0]{index=0}", "Dark glass packaging for protection :contentReference[oaicite:1]{index=1}"],
+      "cons": ["Relatively costly (~€42.50) :contentReference[oaicite:2]{index=2}", "Small capsule count (30)"],
+      "price_eur": "≈42.50",
+      "purchase_channel": "online (Vitaminstore NL etc.)",
+      "close_substitutes": ["Life Extension Grape Seed Extract", "Healthy Origins Grape Seed Extract 300 mg"]
+    },
+    {
+      "name": "Life Extension Grape Seed Extract (100 mg, 60 vegetarian capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "high",
+        "info_seeking": "crowd-trusting (science-oriented brand)",
+        "ethics": "indifferent"
+      },
+      "pros": ["Uses patented Masquelier’s/Leucoselect® extract :contentReference[oaicite:3]{index=3}", "Vegetarian capsule, Non-GMO :contentReference[oaicite:4]{index=4}"],
+      "cons": ["Still premium price (~€37.82) :contentReference[oaicite:5]{index=5}", "May be more complex than basic extract (adds vitamin C)"],
+      "price_eur": "≈37.82",
+      "purchase_channel": "online (supplement specialist stores)",
+      "close_substitutes": ["Solgar Grape Seed Extract 100 mg", "Vitals OPC Complex"]
+    },
+    {
+      "name": "Healthy Origins Grape Seed Extract 300 mg (150 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high but value-oriented (higher count)",
+        "literacy": "high (recognised brand)",
+        "info_seeking": "crowd-trusting",
+        "ethics": "indifferent"
+      },
+      "pros": ["High dose 300 mg per capsule listed in guide :contentReference[oaicite:6]{index=6}", "Large capsule count (150) → good value per dose"],
+      "cons": ["Less local Dutch market visibility", "Still a supplement (general disclaimers apply)"],
+      "price_eur": "≈59.95 (as per guide) :contentReference[oaicite:7]{index=7}",
+      "purchase_channel": "online supplement retailers",
+      "close_substitutes": ["Solgar Grape Seed Extract 100 mg", "OPC Complex BIO"]
+    },
+    {
+      "name": "OPC Complex BIO (GSE + Vitamin C) (60 tablets)",
+      "rationale_profile_mapping": {
+        "budget": "moderate-to-high",
+        "literacy": "high (specific OPC focus)",
+        "info_seeking": "crowd-trusting",
+        "ethics": "indifferent"
+      },
+      "pros": ["Combines grape seed extract (OPC) with vitamin C for added supportive effect :contentReference[oaicite:8]{index=8}", "Vegetarian/vegan friendly"],
+      "cons": ["Smaller tablet count, may cost moderately", "Less brand prestige than global brands"],
+      "price_eur": "≈29.95 :contentReference[oaicite:9]{index=9}",
+      "purchase_channel": "online Dutch supplement shop",
+      "close_substitutes": ["Healthy Origins Grape Seed Extract 300 mg", "Solgar Grape Seed Extract 100 mg"]
+    },
+    {
+      "name": "Holland & Barrett Grapeseed Extract 100 mg (100 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "moderate (good value)",
+        "literacy": "high (recognisable store brand)",
+        "info_seeking": "crowd-trusting (retail chain brand)",
+        "ethics": "indifferent"
+      },
+      "pros": ["Large capsule count (100) at competitive price (~€15.17) :contentReference[oaicite:10]{index=10}", "Widely accessible in NL via online or store"],
+      "cons": ["Lower dose per capsule compared to premium brands", "Store-brand may have less premium packaging or extract sophistication"],
+      "price_eur": "≈15.17",
+      "purchase_channel": "online store of Holland & Barrett (NL) or physical",
+      "close_substitutes": ["Solgar Grape Seed Extract 100 mg", "Holland & Barrett Grapeseed Extract 50 mg (lower dose)"]
+    }
+  ],
+  "caution": "These are dietary supplements and not a substitute for a varied diet or professional medical advice; consult a healthcare professional if using medications or under health care."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 2",
+    "tone": "Neutral",
+    "product_category": "Grape-seed extract supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "OstroVit Grape Seed Extract VEGE (90 caps)",
+      "rationale_profile_mapping": {
+        "budget": "low (≈ €9.49) ([turn1search8])",
+        "literacy": "average (clear vegan label)",
+        "info_seeking": "indifferent (simple choice)",
+        "ethics": "somewhat (vegan friendly)"
+      },
+      "pros": ["Very low cost","Vegan capsules, standardized to 95 % proanthocyanidins ([turn1search8])"],
+      "cons": ["Less brand recognition","May have less local customer support"],
+      "price_eur": "≈ 9.49",
+      "purchase_channel": "online (Dutch supplement site)",
+      "close_substitutes": ["AOV Druivenpitten-extract 60 caps", "Beauty Unlimited Grape Seed Powder 100 g"]
+    },
+    {
+      "name": "Viridian Grape Seed Extract 100 mg (30 vegicaps)",
+      "rationale_profile_mapping": {
+        "budget": "low-to-moderate (≈ €18.50) ([turn1search0])",
+        "literacy": "average (straightforward dosage)",
+        "info_seeking": "indifferent",
+        "ethics": "somewhat (natural ingredients only) ([turn0search7])"
+      },
+      "pros": ["Good value","Contains 95 % OPC and only natural ingredients ([turn0search7])"],
+      "cons": ["Small capsule count","Less well-known brand in NL market"],
+      "price_eur": "≈ 18.50",
+      "purchase_channel": "online Dutch supplement shop",
+      "close_substitutes": ["Hansen Grape Seed Powder 100 g", "OPC Complex BIO 60 tablets"]
+    },
+    {
+      "name": "Holland & Barrett Grapeseed Extract 100 mg (100 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "low (≈ €15.17) ([turn0search0])",
+        "literacy": "average (store-brand, easy to find)",
+        "info_seeking": "indifferent (simple retail purchase)",
+        "ethics": "somewhat (store chain transparency)"
+      },
+      "pros": ["Large capsule count for the price","Easy to buy in stores + online"],
+      "cons": ["Lower dose compared to premium options","May use basic extract quality"],
+      "price_eur": "≈ 15.17",
+      "purchase_channel": "online store / physical store (NL)",
+      "close_substitutes": ["Viridian Grape Seed Extract 100 mg", "OstroVit Grape Seed Extract VEGE"]
+    },
+    {
+      "name": "Beauty Unlimited Grape Seed Extract 100 g powder (≈95 % proanthocyanidins)",
+      "rationale_profile_mapping": {
+        "budget": "low (≈ €17.46) ([turn1search2])",
+        "literacy": "average (simple powder format for utilitarian use)",
+        "info_seeking": "indifferent",
+        "ethics": "somewhat (tested for purity, minimal additives) ([turn1search2])"
+      },
+      "pros": ["Lowest cost per gram","High-purity powder format, minimal additives"],
+      "cons": ["Powder format may be less convenient","Unbranded for mainstream supplement market"],
+      "price_eur": "≈ 17.46",
+      "purchase_channel": "online wellness shop (NL)",
+      "close_substitutes": ["OstroVit Grape Seed Extract VEGE", "Viridian Grape Seed Extract 100 mg"]
+    }
+  ],
+  "caution": "These are dietary supplements, not substitutes for a varied diet; consult a healthcare professional if you take medication or have medical conditions."
+}
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 3",
+    "tone": "Neutral",
+    "product_category": "Grape-seed extract supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Life Extension Grapeseed Extract 100 mg (60 vegetarian capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "average",
+        "info_seeking": "expert-trusting (uses patented Leucoselect®/Masquelier’s extract) :contentReference[oaicite:1]{index=1}",
+        "ethics": "central (Non-GMO, vegetarian)"
+      },
+      "pros": ["Well-researched branded extract (Masquelier’s/Leucoselect®) :contentReference[oaicite:2]{index=2}","Transparent formulation, vegetarian capsule"],
+      "cons": ["Relatively high price (~€37.82) :contentReference[oaicite:3]{index=3}","Smaller capsule count vs value brands"],
+      "price_eur": "≈37.82",
+      "purchase_channel": "online specialist supplement retailers",
+      "close_substitutes": ["OPC Complex BIO (high-dose OPC)","Ecovitis™ Grape Seed Extract Capsules"]
+    },
+    {
+      "name": "Vegavero OPC Trio Capsules (500 mg grape-seed + beetroot + pomegranate, 120 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "average",
+        "info_seeking": "expert-trusting (lab-tested premium blend) :contentReference[oaicite:5]{index=5}",
+        "ethics": "central (vegan, lab‐tested, German manufacture) :contentReference[oaicite:6]{index=6}"
+      },
+      "pros": ["High-dose extract from Italian grapes, vegan, third-party tested :contentReference[oaicite:7]{index=7}","Blend includes supportive botanicals (beetroot, pomegranate)"],
+      "cons": ["More expensive per capsule","Blend means grape-seed is combined rather than standalone"],
+      "price_eur": "≈18.90 (for 120 caps) :contentReference[oaicite:8]{index=8}",
+      "purchase_channel": "online direct-to-consumer EU store",
+      "close_substitutes": ["Life Extension Grapeseed Extract","Vita Nuova Ecovitis™ Grape Seed Extract"]
+    },
+    {
+      "name": "Vita Nuova OPC Grape Seed Extract Capsules – Min 95% OPC (60 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "average",
+        "info_seeking": "expert-trusting (≥95% OPC standard, Italian vineyard origin) :contentReference[oaicite:10]{index=10}",
+        "ethics": "central (vegan, no fillers/additives) :contentReference[oaicite:11]{index=11}"
+      },
+      "pros": ["High-purity standardized OPC (minimum 95%) from Italian grapes :contentReference[oaicite:12]{index=12}","Vegan, additive-free formulation"],
+      "cons": ["60-cap count only","Relatively niche brand – lower brand recognition"],
+      "price_eur": "≈19.99 :contentReference[oaicite:13]{index=13}",
+      "purchase_channel": "online wellness/supplement store (ships to NL)",
+      "close_substitutes": ["Vegavero OPC Trio","Life Extension Grapeseed Extract"]
+    }
+  ],
+  "caution": "These are dietary supplements and should not replace a balanced diet or professional medical advice; consult your health-care provider if you take medications or have health conditions."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 4",
+    "tone": "Neutral",
+    "product_category": "Grape-seed extract supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Holland & Barrett Grapeseed Extract 100 mg (100 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "medium",
+        "literacy": "low (clear simple label)",
+        "info_seeking": "indifferent",
+        "ethics": "indifferent"
+      },
+      "pros": ["Large number of capsules for value","Widely available in-store & online in NL"],
+      "cons": ["Lower dosage vs premium brands","Basic brand recognition, less premium feel"],
+      "price_eur": "≈ 15-20",
+      "purchase_channel": "pharmacy/health-store chain",
+      "close_substitutes": ["Holland & Barrett Grapeseed Extract 50 mg", "Store-brand Grapeseed Extract 60 caps"]
+    },
+    {
+      "name": "OstroVit Grape Seed Extract VEGE (90 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "medium",
+        "literacy": "low",
+        "info_seeking": "indifferent",
+        "ethics": "indifferent"
+      },
+      "pros": ["Vegan friendly capsule format","Competitive price on Dutch online shops"],
+      "cons": ["Less known brand","Online purchase may require creating account"],
+      "price_eur": "≈ 9-12",
+      "purchase_channel": "online supplement retailer",
+      "close_substitutes": ["AOV Druivenpitten-extract 60 caps","Beauty Unlimited Grape Seed Extract powder"]
+    },
+    {
+      "name": "Beauty Unlimited Grape Seed Extract powder (100 g, ≥95% proanthocyanidins)",
+      "rationale_profile_mapping": {
+        "budget": "medium",
+        "literacy": "low",
+        "info_seeking": "indifferent",
+        "ethics": "indifferent"
+      },
+      "pros": ["High-purity powder format for hedonic/DIY interest","Discounted price when buying multiples"],
+      "cons": ["Powder format may feel less convenient than capsules","Smaller brand visibility in mainstream stores"],
+      "price_eur": "≈ 15-18",
+      "purchase_channel": "online wellness shop",
+      "close_substitutes": ["OstroVit Grape Seed Extract VEGE","Viridian Grape Seed Extract 100 mg"]
+    }
+  ],
+  "caution": "These are dietary supplements and not a substitute for a balanced diet or professional medical advice; consult a healthcare professional if you take medications or have medical conditions."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 5",
+    "tone": "Neutral",
+    "product_category": "Grape-seed extract supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Holland & Barrett Grapeseed Extract 100 mg (100 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "low-to-medium",
+        "literacy": "average (easy label)",
+        "info_seeking": "crowd‐trusting (known chain)",
+        "ethics": "somewhat (standard sourcing)"
+      },
+      "pros": ["Large number of capsules for cost","Easy in-store and online shopping"],
+      "cons": ["Lower dosage versus specialist brands","Chain store brand – less premium ingredient detail"],
+      "price_eur": "≈ 15-20",
+      "purchase_channel": "health-store chain / online",
+      "close_substitutes": ["Holland & Barrett Grapeseed Extract 50 mg", "Store-brand Grapeseed Extract 60 caps"]
+    },
+    {
+      "name": "AOV Druivenpitten-extract 60 vegicaps",
+      "rationale_profile_mapping": {
+        "budget": "low",
+        "literacy": "average",
+        "info_seeking": "crowd-trusting (popular Dutch brand)",
+        "ethics": "somewhat"
+      },
+      "pros": ["Dutch brand familiar to local users","Very budget friendly option"],
+      "cons": ["Lower number of capsules","Less detailed info on sourcing/purity"],
+      "price_eur": "≈ 16-18",
+      "purchase_channel": "online Dutch supplement shop",
+      "close_substitutes": ["Holland & Barrett Grapeseed Extract 100 mg", "Beauty Unlimited Grape Seed Powder"]
+    },
+    {
+      "name": "Beauty Unlimited Grape Seed Extract powder (100 g, ≥ 95% proanthocyanidins)",
+      "rationale_profile_mapping": {
+        "budget": "low-to-medium",
+        "literacy": "average",
+        "info_seeking": "crowd-trusting (value oriented)",
+        "ethics": "somewhat"
+      },
+      "pros": ["High-purity powder format at budget price","Good value per gram for health-conscious buyers"],
+      "cons": ["Powder format may require more effort (weighing/mixing)","Less brand recognition than big names"],
+      "price_eur": "≈ 15-18",
+      "purchase_channel": "online wellness shop",
+      "close_substitutes": ["AOV Druivenpitten-extract 60 vegicaps", "Holland & Barrett Grapeseed Extract 100 mg"]
+    }
+  ],
+  "caution": "These are dietary supplements and should not replace a balanced diet or medical advice; consult a healthcare professional if taking prescriptions or with health conditions."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 1",
+    "tone": "Neutral",
+    "product_category": "Biotin supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Solgar Biotin 1000 µg (50 vegetarian capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "high",
+        "info_seeking": "crowd-trusting (well-known international brand)",
+        "ethics": "indifferent"
+      },
+      "pros": ["Trusted premium brand with simple dosage label ([turn0search7])","Available in many Dutch online/retail stores"],
+      "cons": ["Relatively costly compared to generic options","1000 µg dose may be more than basic needs"],
+      "price_eur": "≈ 11-12",
+      "purchase_channel": "online supplement retailer / health store",
+      "close_substitutes": ["Viridian Biotin 2500 µg","Vitaminstore Biotin 1000 µg plant-based"]
+    },
+    {
+      "name": "Vitaminstore Super Biotin 5000 µg (plant-based capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "high",
+        "info_seeking": "crowd-trusting",
+        "ethics": "indifferent"
+      },
+      "pros": ["High strength dosage for hedonic/“premium” feel","Plant-based capsule appeals to premium segment ([turn0search14])"],
+      "cons": ["High dose may be over-kill for typical use","Higher price bracket"],
+      "price_eur": "≈ 23.95",
+      "purchase_channel": "online (Vitaminstore) / store brand",
+      "close_substitutes": ["Solgar Biotin 5000 µg","Viridian Biotin 2500 µg"]
+    },
+    {
+      "name": "Viridian Biotin 2500 µg (e.g., 100 vegetarian capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "high",
+        "info_seeking": "crowd-trusting",
+        "ethics": "indifferent"
+      },
+      "pros": ["Mid-to-high strength in a recognised specialist brand","Vegetarian formulation for premium feel"],
+      "cons": ["Brand slightly less mainstream than global giants","Dosage higher than standard nutritional target"],
+      "price_eur": "≈ 21.95 (as indicated for biotin 2500 µg) ([turn0search14])",
+      "purchase_channel": "online specialist supplement store",
+      "close_substitutes": ["Vitaminstore Super Biotin 5000 µg","Solgar Biotin 1000 µg"]
+    }
+  ],
+  "caution": "These supplements should not replace a balanced diet or medical advice; inform your healthcare provider especially if you’re taking medications or undergoing lab tests."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 2",
+    "tone": "Neutral",
+    "product_category": "Biotin supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Mattisson Biotine 1000 µg (60 tablets)",
+      "rationale_profile_mapping": {
+        "budget": "low",
+        "literacy": "average",
+        "info_seeking": "indifferent",
+        "ethics": "somewhat"
+      },
+      "pros": ["Very affordable (~€12.95) ([turn0search18]","Simple label and dosage (1000 µg)"],
+      "cons": ["Smaller tablet count (60)","Basic brand – less recognisable"],
+      "price_eur": "≈12.95",
+      "purchase_channel": "online supplement retailer",
+      "close_substitutes": ["Holland & Barrett Biotin 1000 µg", "Vitakruid Biotin 2500 µg"]
+    },
+    {
+      "name": "Vitakruid Biotin 2500 µg (90 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "low",
+        "literacy": "average",
+        "info_seeking": "indifferent",
+        "ethics": "somewhat"
+      },
+      "pros": ["Reasonable dose (2500 µg) for the price (~€15.95) ([turn0search8]","Vegan, no GMO, no lactose etc."],
+      "cons": ["Online only (less offline availability)","Brand is less known internationally"],
+      "price_eur": "≈15.95",
+      "purchase_channel": "online Dutch wellness shop",
+      "close_substitutes": ["Mattisson Biotine 1000 µg", "OstroVit Biotin PLUS 100 tabs"]
+    },
+    {
+      "name": "OstroVit Biotin PLUS (100 tablets) with zinc & selenium",
+      "rationale_profile_mapping": {
+        "budget": "low",
+        "literacy": "average",
+        "info_seeking": "indifferent",
+        "ethics": "somewhat"
+      },
+      "pros": ["Very low price (~€6.49) for 100 tablets ([turn0search20]","Includes supportive minerals (zinc, selenium)"],
+      "cons": ["Low brand recognition","Combined formula means biotin dose may be lower per tablet"],
+      "price_eur": "≈6.49",
+      "purchase_channel": "online supplement store",
+      "close_substitutes": ["Vitakruid Biotin 2500 µg", "Mattisson Biotine 1000 µg"]
+    }
+  ],
+  "caution": "These are dietary supplements and not a substitute for a balanced diet or professional medical advice; consult a healthcare professional if you are on medication or have health issues."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "Persona 3",
+    "tone": "Neutral",
+    "product_category": "Biotin supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Viridian Biotin 2500 µg (90 vegetarian capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "average",
+        "info_seeking": "expert-trusting",
+        "ethics": "central (vegan, non-GMO, ethical sourcing) :contentReference[oaicite:0]{index=0}"
+      },
+      "pros": ["Ethically formulated: vegan, no palm oil, non-GMO","High-potency dose for serious users"],
+      "cons": ["Higher cost (~€21.95) :contentReference[oaicite:1]{index=1}","Less mainstream brand recognition"],
+      "price_eur": "≈ 21.95",
+      "purchase_channel": "online specialist supplement store",
+      "close_substitutes": ["Solgar Biotin 1000 µg","Vitaminstore Super Biotin 5000 µg"]
+    },
+    {
+      "name": "Solgar Biotin 1000 µg (50 vegicaps)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "average",
+        "info_seeking": "expert-trusting (trusted international brand) :contentReference[oaicite:2]{index=2}",
+        "ethics": "central (uses dark-glass packaging; vegetarian)"
+      },
+      "pros": ["Trusted global brand with clean label","Affordable entry into high-quality dosing (€11.40) :contentReference[oaicite:3]{index=3}"],
+      "cons": ["Lower dose compared to premium options","Still less known than mainstream multivitamin brands in local market"],
+      "price_eur": "≈ 11.40",
+      "purchase_channel": "online supplement retailer (NL)",
+      "close_substitutes": ["Viridian Biotin 2500 µg","Vitaminstore Biotin 1000 µg"]
+    },
+    {
+      "name": "Vitaminstore Super Biotin 5000 µg (plant-based capsules)",
+      "rationale_profile_mapping": {
+        "budget": "high",
+        "literacy": "average",
+        "info_seeking": "expert-trusting (specialist retailer brand) :contentReference[oaicite:4]{index=4}",
+        "ethics": "central (plant-based capsule option)"
+      },
+      "pros": ["Very high dosage for users wanting maximal effect","Backed by specialist health retailer with good transparency"],
+      "cons": ["Higher price (~€23.95) :contentReference[oaicite:5]{index=5}","Very high dose may be more than some users need"],
+      "price_eur": "≈ 23.95",
+      "purchase_channel": "online (Vitaminstore NL) / specialty store",
+      "close_substitutes": ["Solgar Biotin 1000 µg","Viridian Biotin 2500 µg"]
+    }
+  ],
+  "caution": "These are dietary supplements and should not replace a balanced diet or professional medical advice; inform your healthcare provider especially if you are undergoing lab tests or taking medications."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "4",
+    "tone": "Neutral",
+    "product_category": "Biotin supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Solgar Biotin 1000 µg (50 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "medium – modest cost fits medium budget",
+        "literacy": "low – simple familiar brand, easily available",
+        "info_seeking": "indifferent – straightforward product, minimal research needed",
+        "ethics": "medium brand recognition – familiar brand, moderate ethical transparency"
+      },
+      "pros": ["well-known brand","clear dosage 1000 µg","gluten-free/dairy-free option available"] ,
+      "cons": ["lower dosage so may require more frequent use","capsule format may be less ‘hedonic’ than gummies"] ,
+      "price_eur": "≈11-12",
+      "purchase_channel": "online / pharmacy / health-shop",
+      "close_substitutes": ["Solgar Biotin 5000 µg","Jarrow Formulas Biotin 5000 µg"]
+    },
+    {
+      "name": "Jarrow Formulas Biotin 5000 µg (100 vegetarian capsules)",
+      "rationale_profile_mapping": {
+        "budget": "medium – slightly higher cost but still moderate",
+        "literacy": "low – vegetarian capsule simplifies decision",
+        "info_seeking": "indifferent – high dosage for those wanting more ‘impact’ without deep research",
+        "ethics": "medium brand recognition – known international brand"
+      },
+      "pros": ["higher dosage for convenience","vegetarian capsule format"],
+      "cons": ["higher dosage might be over-kill if small amount sufficient","slightly higher cost"],
+      "price_eur": "≈18-22",
+      "purchase_channel": "online health-shop",
+      "close_substitutes": ["Healthy Origins Biotin 10 000 µg","Solgar Biotin 5000 µg"]
+    },
+    {
+      "name": "Healthy Origins Biotin 10 000 µg (150 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "medium – larger pack size offers value",
+        "literacy": "low – simple high-dosage offering",
+        "info_seeking": "indifferent – minimal decision effort for high dose",
+        "ethics": "medium – less local brand may reduce ethical transparency"
+      },
+      "pros": ["very high dosage so fewer capsules needed","larger pack size offers value"],
+      "cons": ["may be more than needed for many users","higher cost upfront"],
+      "price_eur": "≈25-30",
+      "purchase_channel": "online / Amazon.nl",
+      "close_substitutes": ["Jarrow Formulas Biotin 5000 µg","Solgar Biotin 1000 µg"]
+    },
+    {
+      "name": "Biotin 500 µg Vitals (100 vegetarian capsules)",
+      "rationale_profile_mapping": {
+        "budget": "medium/low – lower cost entry",
+        "literacy": "low – low dose, simple choice",
+        "info_seeking": "indifferent – minimal complexity",
+        "ethics": "medium – local brand easier to find in NL"}
+      ,
+      "pros": ["budget-friendly entry dose","vegetarian capsules","local availability"],
+      "cons": ["may be too low dose for some users seeking stronger effect","may require longer use"],
+      "price_eur": "≈18 (as per listing) :contentReference[oaicite:0]{index=0}",
+      "purchase_channel": "online health-shop / local pharmacy",
+      "close_substitutes": ["Solgar Biotin 1000 µg","Solgar Biotin 5000 µg"]
+    },
+    {
+      "name": "Biotin Gummies 5000 µg + Zinc & Selenium (120 gummies)",
+      "rationale_profile_mapping": {
+        "budget": "medium – gummies cost more but offer hedonic appeal",
+        "literacy": "low – easy to take form, appealing",
+        "info_seeking": "indifferent – minimal research, tasty format",
+        "ethics": "medium – some ‘beauty’ supplement format for hedonic goal"}
+      ,
+      "pros": ["gummy format – more enjoyable","includes supportive minerals (zinc & selenium)"],
+      "cons": ["typically higher cost per dose","gummies may contain sugars or additives"],
+      "price_eur": "≈20-30 (varies online) :contentReference[oaicite:1]{index=1}",
+      "purchase_channel": "online (Amazon.nl / health-shops)",
+      "close_substitutes": ["Biotin softgel capsules 5000 µg","Beauty supplement with Biotin & Zinc"]
+    }
+  ],
+  "caution": "These are dietary supplements and are not intended to diagnose, treat or prevent any disease; consult a healthcare professional before starting especially if pregnant, nursing or on medication."
+}
+
+{
+  "metadata": {
+    "perspective": "third_person",
+    "persona_id": "5",
+    "tone": "Neutral",
+    "product_category": "Biotin supplements",
+    "region": "Netherlands",
+    "currency": "EUR"
+  },
+  "recommendations": [
+    {
+      "name": "Solgar Biotin 1000 µg (50 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "low – cost-effective entry option",
+        "literacy": "average – simple dosage",
+        "info_seeking": "crowd-trusting – well-known brand",
+        "ethics": "somewhat important – medium brand recognition"
+      },
+      "pros": ["recognized international brand","lower dosage so moderate intake"],
+      "cons": ["may be too low for higher-dose users","capsule form only"],
+      "price_eur": "≈11.30 € (netherlands) :contentReference[oaicite:0]{index=0}",
+      "purchase_channel": "online / pharmacy",
+      "close_substitutes": ["Solgar Biotin 5000 µg","Healthy Origins Biotin 10000 µg"]
+    },
+    {
+      "name": "Jarrow Formulas Biotin 5000 µg (100 vegetarian capsules)",
+      "rationale_profile_mapping": {
+        "budget": "low-medium – still acceptable",
+        "literacy": "average – clear dosage",
+        "info_seeking": "crowd-trusting – trusted supplement brand",
+        "ethics": "somewhat important – vegetarian option available"
+      },
+      "pros": ["higher dosage for fewer capsules","vegetarian capsule"],
+      "cons": ["cost moderately higher than entry option","higher dose may exceed user’s needs"],
+      "price_eur": "≈19-20 € in NL listings :contentReference[oaicite:1]{index=1}",
+      "purchase_channel": "online health-shop",
+      "close_substitutes": ["Healthy Origins Biotin 5000 µg","Solgar Biotin 1000 µg"]
+    },
+    {
+      "name": "Healthy Origins Biotin 10000 µg (150/360 veggie capsules)",
+      "rationale_profile_mapping": {
+        "budget": "low-medium – large pack size improves value",
+        "literacy": "average – clear high-dose option",
+        "info_seeking": "crowd-trusting – well-rated supplement source",
+        "ethics": "somewhat important – vegan/vegetarian friendly and non-GMO mention"
+      },
+      "pros": ["very high dosage so fewer capsules","vegetarian/vegan friendly"],
+      "cons": ["higher dose may be more than needed","still some cost due to larger pack"],
+      "price_eur": "≈24.95 € in NL listing :contentReference[oaicite:2]{index=2}",
+      "purchase_channel": "online health-shop",
+      "close_substitutes": ["Jarrow Formulas Biotin 5000 µg","Solgar Biotin 5000 µg"]
+    },
+    {
+      "name": "Vitakruid Biotin 2500 µg (90 capsules)",
+      "rationale_profile_mapping": {
+        "budget": "low – good value local brand",
+        "literacy": "average – moderate dosage easy to follow",
+        "info_seeking": "crowd-trusting – local trusted retailer",
+        "ethics": "somewhat important – vegan friendly (claims) in local brand"
+      },
+      "pros": ["budget-friendly","local Dutch brand, vegan friendly"], 
+      "cons": ["dosage is moderate, might not meet higher-dose wants","less international brand recognition"],
+      "price_eur": "≈15.95 € in NL listing :contentReference[oaicite:3]{index=3}",
+      "purchase_channel": "online health-shop",
+      "close_substitutes": ["Solgar Biotin 1000 µg","Jarrow Formulas Biotin 5000 µg"]
+    }
+  ],
+  "caution": "These are dietary supplements and not a substitute for a varied diet or medical advice; consult a healthcare professional before use, especially if you are on medication or have health conditions."
+}
